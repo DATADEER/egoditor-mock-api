@@ -21,23 +21,21 @@
       "limit": 10
     }
   ],
-  "contact":
-    {
-      "firstname": "John",
-      "lastname": "Doe",
-      "phone": "23556681834",
-      "company": "Egoditor GmbH",
-      "street": "Am Lenkwerk 13",
-      "city": "Bielefeld",
-      "zip": "2349509",
-      "country": "germany",
-      "website": ""
-    },
-  "profile":
-    {
-      "customerId": "app-u-103",
-      "signupDate": 1598203501,
-      "accountType": "Professional",
-      "email": "designcodes@qrcg.com"
-    }
+  "contact": {
+    "firstname": "John",
+    "lastname": "Doe",
+    "phone": "23556681834",
+    "company": "Egoditor GmbH",
+    "street": "Am Lenkwerk 13",
+    "city": "Bielefeld",
+    "zip": "2349509",
+    "country": "germany",
+    "website": ""
+  },
+  "profile": {
+    "customerId": "app-u-103",
+    "signupDate": 1598203501,
+    "accountType": "Professional",
+    "email": "designcodes@qrcg.com"
+  }
 }
