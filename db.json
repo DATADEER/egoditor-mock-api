@@ -1,0 +1,23 @@
+{
+  "usage": [{
+    "title": "scans",
+    "value": 1231452,
+    "limit": -1
+  },
+    {
+      "title": "dynamiccodes",
+      "value": 345,
+      "limit": 500
+    },
+    {
+      "title": "staticcodes",
+      "value": 4650,
+      "limit": 50000
+    },
+    {
+      "title": "users",
+      "value": 1,
+      "limit": 10
+    }
+  ]
+}
