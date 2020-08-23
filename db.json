@@ -1,9 +1,10 @@
 {
-  "usage": [{
-    "title": "scans",
-    "value": 1231452,
-    "limit": -1
-  },
+  "usage": [
+    {
+      "title": "scans",
+      "value": 1231452,
+      "limit": -1
+    },
     {
       "title": "dynamiccodes",
       "value": 345,
@@ -19,5 +20,24 @@
       "value": 1,
       "limit": 10
     }
-  ]
+  ],
+  "contact":
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "phone": "23556681834",
+      "company": "Egoditor GmbH",
+      "street": "Am Lenkwerk 13",
+      "city": "Bielefeld",
+      "zip": "2349509",
+      "country": "germany",
+      "website": ""
+    },
+  "profile":
+    {
+      "customerId": "app-u-103",
+      "signupDate": 1598203501,
+      "accountType": "Professional",
+      "email": "designcodes@qrcg.com"
+    }
 }
